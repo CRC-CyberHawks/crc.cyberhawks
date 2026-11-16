@@ -1,17 +1,19 @@
 # Monthly Agenda & Competition Calendar
 
-## This Month's Meeting Agenda
-**Location:** [Building & Room #] / Club Discord Voice Channel  
-**Time:** [Day of Week], [Start Time – End Time]
+## Weekly Club Meetings
+* **When:** Every Friday at **4:30 PM PST**
+* **Where:** Remote via **Zoom** *(check the club Discord announcements channel for the weekly meeting link)*
 
-| Week | Date | Topic / Activity | Prep Needed |
+### November Agenda
+
+| Date | Event / Meeting Focus | Time | Format / Notes |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | Nov 5 | Linux Terminal & Bash Scripting Crash Course | Bring laptop |
-| **Week 2** | Nov 12 | Packet Analysis Lab: Hunting Malicious Traffic in Wireshark | Install Wireshark |
-| **Week 3** | Nov 19 | Competition Prep: Mock Incident Response & Hardening | Review checklist |
-| **Week 4** | Nov 26 | Mini-CTF Night & Team Social | None |
+| **Fri, Nov 20** | Weekly Club Meeting & WRCCDC Final Prep | 4:30 PM | Zoom |
+| **Sat, Nov 21** | **WRCCDC Competition** | 9:00 AM – 4:30 PM | Competition Roster |
+| **Fri, Nov 27** | Weekly Club Meeting & CWC Strategy Briefing | 4:30 PM | Zoom |
+| **Sat, Nov 28 – Sun, Nov 29** | **Cyber Workforce Competition (CWC)** | Nov 28, 9:00 AM – Nov 29, 9:00 AM | 24-Hour Challenge Window |
 
 ---
 
 ## Upcoming Competitions Calendar
-*Competition calendar coming soon—check our Discord for upcoming CTF and Blue Team registration dates!*
+Subscribe to our club calendar below to stay up to date on all competition windows and practice sessions.
