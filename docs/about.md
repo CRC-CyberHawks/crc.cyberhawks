@@ -15,7 +15,6 @@ Founded to bridge the gap between textbook theory and real-world security operat
 
 | Role | Name | Focus Area |
 | :--- | :--- | :--- |
-| **President** | [Your Name] | Team Lead & Competition Strategy |
-| **Vice President** | [Name] | Lab Infrastructure & Workshops |
-| **Secretary / Treasurer** | [Name] | Operations, Events & Outreach |
-| **Faculty Advisor** | [Professor Name] | Cosumnes River College Sponsor |
+| **President** | Anna Maldonado | Team Lead & Competition Operations |
+| **Vice President** | Darcie Carender | Lab Infrastructure, Events & Outreach |
+| **Faculty Advisor** | [Professor Name] | Cosumnes River College (CIS) Faculty Advisor |
