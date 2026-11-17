@@ -1,4 +1,5 @@
 site_name: CRC Cyber Hawks
+site_url: https://crc-cyberhawks.gethub.io/crc.cyberhawks/
 theme:
   name: material
   logo: assets/logo.png
