@@ -1,4 +1,4 @@
-![CRC Cyber Hawks Logo](assets/logo.png){ width="260" align=left }
+![CRC Cyber Hawks Logo](assets/logo.png.png){ width="260" align=left }
 
 # DETECT • DEFEND • DOMINATE
 
