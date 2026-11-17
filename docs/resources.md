@@ -43,4 +43,4 @@ Bookmark this page for direct links to the software, virtual machines, and train
 ## Free Practice Platforms
 * **[TryHackMe](https://tryhackme.com):** Guided, beginner-friendly rooms for Linux, networking, and SOC fundamentals.
 * **[OverTheWire (Bandit)](https://overthewire.org):** The best command-line wargame to learn Linux terminal navigation.
-* **[PicoCTF](https://picoctf.org):** Ye
+* **[PicoCTF](https://picoctf.org):** Year-round beginner-to-intermediate CTF challenges with great learning guides.
