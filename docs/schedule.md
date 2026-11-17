@@ -2,7 +2,7 @@
 
 ## Weekly Club Meetings
 * **When:** Every Friday at **4:30 PM PST**
-* **Where:** Remote via **Zoom** *(check the club Discord announcements channel for the weekly meeting link)*
+* **Where:** Remote via **Zoom** *https://discord.gg/4VAY9rqaj*
 
 ### November Agenda
 
