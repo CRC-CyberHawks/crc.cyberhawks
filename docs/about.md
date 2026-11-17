@@ -17,4 +17,4 @@ Founded to bridge the gap between textbook theory and real-world security operat
 | :--- | :--- | :--- |
 | **President** | Anna Maldonado | Team Lead & Competition Operations |
 | **Vice President** | Darcie Carender | Lab Infrastructure, Events & Outreach |
-| **Faculty Advisor** | [Professor Name] | Cosumnes River College (CIS) Faculty Advisor |
+| **Faculty Advisor** | Prof. Buddy Spisak | Cosumnes River College (CIS) Faculty Advisor |
