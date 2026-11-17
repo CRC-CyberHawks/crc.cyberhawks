@@ -1,8 +1,8 @@
-![CRC Cyber Hawks Logo](assets/logo.png.png){ width="260" align=left }
+![CRC CyberHawks Logo](assets/logo.png.png){ width="260" align=left }
 
 # DETECT • DEFEND • DOMINATE
 
-Welcome to the official hub for the **Cosumnes River College Cyber Hawks**. Access our monthly meeting agenda, essential security toolkits, upcoming competition schedules, and highlights from our squad in action.
+Welcome to the official hub for the **Cosumnes River College CyberHawks**. Access our monthly meeting agenda, essential security toolkits, upcoming competition schedules, and highlights from our squad in action.
 
 [Join Our Discord](https://discord.gg){ .md-button .md-button--primary }
 [This Month's Agenda](schedule.md#this-months-meeting-agenda){ .md-button }
@@ -19,7 +19,7 @@ Welcome to the official hub for the **Cosumnes River College Cyber Hawks**. Acce
 
     ---
 
-    Learn about the CRC Cyber Hawks' mission, meet the officers and faculty advisor, and see how beginners can join.
+    Learn about the CRC CyberHawks' mission, meet the officers and faculty advisor, and see how beginners can join.
 
     [:octicons-arrow-right-24: Meet the Club](about.md)
 
