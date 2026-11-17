@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 # DETECT • DEFEND • DOMINATE
 
 Welcome to the official hub for the **Cosumnes River College CyberHawks**. Access our monthly meeting agenda, essential security toolkits, upcoming competition schedules, and highlights from our squad in action.
