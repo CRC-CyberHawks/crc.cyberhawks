@@ -1,8 +1,9 @@
 # Monthly Agenda & Competition Calendar
 
 ## Weekly Club Meetings
-* **When:** Every Friday at **4:30 PM PST** [*https://us06web.zoom.us/j/82652636423?pwd=0rebJSbcOEWoAbpsbc10W4vDjgM80n.1*]
-* **Where:** Remote via **Zoom** [*https://discord.gg/4VAY9rqaj*]
+* **When:** Every Friday at **4:30 PM PST**
+* **Zoom Link:** [Join Weekly Zoom Meeting](https://us06web.zoom.us/j/82652636423?pwd=0rebJSbcOEWoAbpsbc10W4vDjgM80n.1)
+* **Where:** Remote via Zoom — [Join the CRC CyberHawks Discord](https://discord.gg/4VAY9rqaj)
 
 ### November Agenda
 
