@@ -32,6 +32,11 @@ Enter your name and email below to get weekly reminders and updates for our Frid
   <button type="submit" style="padding: 10px 16px; background-color: #0969da; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer;">Join Email List</button>
 </form>
 
+---
+### Questions? Contact Us Have a question about Friday meetings or joining the club? Email us directly at **
+[crc.cyberhawks@gmail.com](mailto:crcr.cyberhawks@gmail.com)**.
+
+
 
 ## Upcoming Competitions Calendar
 Subscribe to our club calendar below to stay up to date on all competition windows and practice sessions.
