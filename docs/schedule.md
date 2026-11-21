@@ -16,5 +16,11 @@
 
 ---
 
+## Join Our Friday Meeting Email List
+Enter your name and email below to get weekly reminders and updates for our Friday meetings.
+
+<iframe src="YOUR_GOOGLE_FORM_EMBED_URL" width="100%" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 ## Upcoming Competitions Calendar
 Subscribe to our club calendar below to stay up to date on all competition windows and practice sessions.
