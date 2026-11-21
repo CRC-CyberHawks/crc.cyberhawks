@@ -33,7 +33,8 @@ Enter your name and email below to get weekly reminders and updates for our Frid
 </form>
 
 ---
-### Questions? Contact Us Have a question about Friday meetings or joining the club? Email us directly at **
+### Contact Us? 
+Have questions about our Friday meetings or joining the club? Email us directly at **
 [crc.cyberhawks@gmail.com](mailto:crcr.cyberhawks@gmail.com)**.
 
 
