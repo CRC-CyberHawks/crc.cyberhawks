@@ -1,4 +1,4 @@
-![CRC CyberHawks Logo](assets/logo.png.png){ width="220" align=left }
+![CRC CyberHawks Logo](assets/logo.png.png){ width="260" align=left }
 
 
 
