@@ -41,3 +41,4 @@ Have questions about our Friday meetings or joining the club? Email us directly 
 
 ## Upcoming Competitions Calendar
 Subscribe to our club calendar below to stay up to date on all competition windows and practice sessions.
+<iframe src="https://calendar.google.com/calendar/embed?src=crc.cyberhawks%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
