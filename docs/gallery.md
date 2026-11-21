@@ -11,7 +11,7 @@ Highlights from our Blue Team defenses, CTF nights, and collegiate cyber competi
 ## DOE CyberForce Competition 2026 — Chicago, IL
 
 <div align="center" markdown>
-<img src="../assets/DOE CyberForce Competition 2026.jpg" alt="CRC Cyber Hawks at DOE CyberForce Competition 2026" style="border-radius: 10px; border: 1px solid #00a8ff; max-width: 720px; width: 100%;">
+<img src="../assets/DOE CyberForce Competition 2026.png" alt="CRC Cyber Hawks at DOE CyberForce Competition 2026" style="border-radius: 10px; border: 1px solid #00a8ff; max-width: 720px; width: 100%;">
 
 **DOE CyberForce Competition 2026** — *CRC Cyber Hawks representing Cosumnes River College at the national cybersecurity competition.*
 </div>
