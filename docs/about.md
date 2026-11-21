@@ -18,3 +18,21 @@ Founded to bridge the gap between textbook theory and real-world security operat
 | **President** | Anna Maldonado | Team Lead & Competition Operations |
 | **Vice President** | Darcie Carender | Lab Infrastructure, Events & Outreach |
 | **Faculty Advisor** | Prof. Buddy Spisak | Cosumnes River College (CIS) Faculty Advisor |
+
+---
+
+## Club Members
+* Abdul Kudia
+* Arzo Elmjo
+* Barrett Jordan
+* Daniel Ho
+* Daphne Salazar
+* Jet Yang
+* Jose Lopez
+* Mark Dias
+* Mark Henry
+* Maz Samara
+* Nathan Melancon
+* Ponyboy (Anthony) Gonzalas
+* Raymond Lu
+* Zach Powers
